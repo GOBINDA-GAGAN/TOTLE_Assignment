@@ -1,0 +1,81 @@
+[
+  {
+    "id": "65f9be21ab1c1a001001a101",
+    "name": "Blogging Basics",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a102",
+    "name": "Blogging Tips",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a103",
+    "name": "Blogging Routine",
+    "category": "Lifestyle"
+  },
+
+  {
+    "id": "65f9be21ab1c1a001001a104",
+    "name": "Easy SEO",
+    "category": "SEO"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a105",
+    "name": "SEO Starter Guide",
+    "category": "SEO"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a106",
+    "name": "in Simple Words",
+    "category": "SEO"
+  },
+
+  {
+    "id": "65f9be21ab1c1a001001a107",
+    "name": "Late Night Ideas",
+    "category": "Creativity"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a108",
+    "name": "Creative Sparks",
+    "category": "Creativity"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a109",
+    "name": "Idea Flow",
+    "category": "Creativity"
+  },
+
+  {
+    "id": "65f9be21ab1c1a001001a110",
+    "name": "Editing Tricks",
+    "category": "Editing"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a111",
+    "name": "Quick Edits",
+    "category": "Editing"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a112",
+    "name": "Smooth Editing",
+    "category": "Editing"
+  },
+
+  {
+    "id": "65f9be21ab1c1a001001a113",
+    "name": "Active Readers",
+    "category": "Community"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a114",
+    "name": "Reader Boost",
+    "category": "Community"
+  },
+  {
+    "id": "65f9be21ab1c1a001001a115",
+    "name": "Community Vibes",
+    "category": "Community"
+  }
+]
