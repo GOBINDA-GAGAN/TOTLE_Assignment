@@ -1,6 +1,6 @@
 # Topics API
 
-**📹 Video Explanation (2 min):** *Add your video link here*
+## 📹 Video Explanation (2 min):** *[video link](https://drive.google.com/file/d/1Ba4NO8OhFXj8FqBzbGglGLWD7shLN9fJ/view?usp=sharing)*
 
 A lightweight Node.js + Express API that returns topic data from a JSON file with search and sorting features. Clean, simple, and production-ready.
 
