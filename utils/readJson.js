@@ -2,7 +2,6 @@ const fs = require('fs').promises;
 const path = require('path');
 
 async function readJson(filePath) {
-  console.log(filePath);
   
   try {
  const fullPath = path.join(process.cwd(), filePath); 

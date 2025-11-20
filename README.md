@@ -96,6 +96,7 @@ Response sample:
 }
 ```
 
+
 ---
 
 ## 6. Troubleshooting
@@ -105,17 +106,3 @@ Response sample:
 * **Port already in use** → change `PORT` in `.env`
 
 ---
-
-## 7. Production Tips
-
-* Set `NODE_ENV=production`
-* Add logging (Winston, Morgan)
-* Use PM2: `pm2 start server.js --name topics-api`
-* Add security: `helmet`, `cors`
-* Consider DB upgrade when data grows
-
----
-
-## License
-
-MIT License
